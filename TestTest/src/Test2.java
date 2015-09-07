@@ -1,5 +1,9 @@
 
 public class Test2 {
+	
+	
+	private String test="test";
+	
 
 	String str;
 	int a;
